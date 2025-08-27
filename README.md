@@ -26,7 +26,7 @@ You can trim sections you don’t want. Search for TODO to personalize.
 ---
 
 ### 🧭 Quick Navigation
-[What I Do](#-what-i-do) · [Current Projects](#-current-projects) · [Leadership Themes](#-leadership-themes) · [Tech Stack](#-tech-stack) · [Engineering Philosophy](#-engineering-philosophy--mini-manifesto) · [Talk / Writing Topics](#-topics-i-enjoy-jamming-on) · [Starter Snippets](#-starter-snippets) · [Stats & Activity](#-stats--activity) · [Contact](#-lets-connect)  
+[What I Do](#-what-i-do) · [Current Projects](#-current-projects) · [Leadership Themes](#-leadership-themes) · [Tech Stack](#-tech-stack) · [Engineering Philosophy](#-engineering-philosophy--mini-manifesto) · [Talk / Writing Topics](#-topics-i-enjoy-jamming-on) · [Stats & Activity](#-stats--activity) · [Contact](#-lets-connect)  
 
 ---
 
