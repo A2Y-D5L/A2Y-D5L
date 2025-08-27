@@ -93,59 +93,6 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 
 ---
 
-### 🧪 Starter Snippets
-
-Some conceptual pseudo / illustrative code (not production):
-
-```go
-// Composition-friendly "spec shape" hinting human ergonomics > provider noise.
-type AppInfraSpec struct {
-  Environment   string   `json:"environment"`
-  Regions       []string `json:"regions"`
-  IngressPolicy string   `json:"ingressPolicy"`
-  Observability struct {
-    Tracing bool `json:"tracing"`
-    Logs    bool `json:"logs"`
-  } `json:"observability"`
-}
-```
-
-```go
-// Reconciler skeleton emphasizing idempotency + explicit phase logging.
-func (r *Controller) Reconcile(ctx context.Context, req ctrl.Request) (ctrl.Result, error) {
-  log := r.logger.WithValues("name", req.NamespacedName)
-  state, err := r.fetch(ctx, req)
-  if err != nil { return requeueErr(err) }
-
-  plan := r.diffDesired(state)
-  if plan.Empty() {
-    log.Info("steady_state")
-    return ctrl.Result{}, nil
-  }
-
-  if err := r.applyPlan(ctx, plan); err != nil {
-    log.Error(err, "apply_failed")
-    return requeueErr(err)
-  }
-  log.Info("reconciled", "ops", len(plan.Steps))
-  return ctrl.Result{}, nil
-}
-```
-
-```mermaid
-flowchart TD
-  DevIntent[Developer Intent]
-  APIContract[Crossplane Composition API]
-  Reconciler[Operators / Reconcilers]
-  Policies[Policy Layer / Governance]
-  Providers[Cloud Providers]
-  DevIntent --> APIContract --> Reconciler --> Policies --> Providers
-  Policies --> Observability[(Telemetry / Events / Conditions)]
-  Reconciler --> Observability
-```
-
----
-
 ### 📈 Stats & Activity
 <!-- These depend on public activity; feel free to remove if not useful. -->
 <p align="center">
