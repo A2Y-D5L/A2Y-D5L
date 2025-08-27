@@ -44,8 +44,8 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 
 | Project | Summary | Status | Tech Highlights |
 |---------|---------|--------|-----------------|
-| `go-stream` | Embedded, batteries-included NATS/JetStream dev experience to slash setup friction. | Early development | Go, NATS, JetStream, Dev UX |
-| `personas framework` | Persona-based agent coordination runtime for cognitive load reduction via role specialization. | Design + prototyping | Go (planned), Agent orchestration, Extensibility |
+| [`go-stream`](https://github.com/A2Y-D5L/go-stream) | Embedded, batteries-included NATS/JetStream dev experience to slash setup friction. | Early development | Go, NATS, JetStream, Dev UX |
+| [`Personas Framework`](https://github.com/A2Y-D5L/personas-framework) | Persona-based agent coordination runtime for cognitive load reduction via role specialization. | Design + prototyping | Go (planned), Agent orchestration, Extensibility |
 
 <!-- Optional TODO: Add repo links when public -->
 <!-- TODO: Link to repos when you open-source them -->
