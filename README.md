@@ -7,10 +7,6 @@
 <p align="center">
   <a href="https://www.andydonnell.com"><img alt="Website" src="https://img.shields.io/badge/Website-andydonnell.com-0a0a0a?style=flat&logo=firefox-browser"></a>
   <a href="https://www.linkedin.com/in/andydonnell/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Donnell-0A66C2?style=flat&logo=linkedin"></a>
-  <a href="https://golang.org/"><img alt="Go" src="https://img.shields.io/badge/Go-1.x-00ADD8?logo=go&style=flat"></a>
-  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Operator%20Builder-326CE5?logo=kubernetes&style=flat"></a>
-  <a href="https://crossplane.io/"><img alt="Crossplane" src="https://img.shields.io/badge/Crossplane-Compositions-blue?style=flat&logo=crossplane"></a>
-  <a href="https://nats.io/"><img alt="NATS" src="https://img.shields.io/badge/NATS-JetStream-3e8acc?style=flat"></a>
 </p>
 
 <p align="center">
