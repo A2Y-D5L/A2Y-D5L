@@ -99,11 +99,7 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 
 ### 🤝 Let’s Connect
 
-- Site: https://www.andydonnell.com
-- LinkedIn: https://www.linkedin.com/in/andydonnell/
-- Email: hi@andydonnell.com
-- Open to: Conversations about control planes, API ergonomics, operator strategies, persona-based agent frameworks.
+**Site:** https://www.andydonnell.com
 
----
-
-<p align="center"><sub>Composability is a lifestyle · In reconciliation we trust · Standards that accelerate.</sub></p>
+**LinkedIn:** https://www.linkedin.com/in/andydonnell/
+**Email:** hi@andydonnell.com
