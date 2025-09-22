@@ -1,19 +1,9 @@
-<!--
-Hi 👋
-
-This is a ready-to-customize GitHub Profile README template for: Andy Donnell (A2Y-D5L)
-Style goals: Fun + Geeky + Credible Principal Engineer
-You can trim sections you don’t want. Search for TODO to personalize.
--->
-
-<!-- HERO / TITLE -->
 <h1 align="center">Andy Donnell 🛠️☁️</h1>
 <p align="center">
   <strong>Principal Engineer · Control Plane & Operator Architect · Go Enthusiast · Platform-as-Product Evangelist</strong><br/>
   <em>I build composable cloud control planes so engineers ship faster—with guardrails, not gatekeepers.</em>
 </p>
 
-<!-- BADGES (Feel free to prune) -->
 <p align="center">
   <a href="https://www.andydonnell.com"><img alt="Website" src="https://img.shields.io/badge/Website-andydonnell.com-0a0a0a?style=flat&logo=firefox-browser"></a>
   <a href="https://www.linkedin.com/in/andydonnell/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Donnell-0A66C2?style=flat&logo=linkedin"></a>
@@ -64,17 +54,18 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 
 ### 🛠 Tech Stack
 
-- Primary: Go, Kubernetes, Crossplane, NATS/JetStream, gRPC/REST APIs
+- Primary: Go, Kubernetes, Crossplane, NATS, gRPC/REST APIs
 - Patterns: Reconciliation loops, declarative abstractions, event-driven design, contract-first API modeling
 - Cloud: AWS, GCP (focus on consistent abstractions & policy layers)
 - Tooling Interests: Operator SDK patterns, dynamic composition strategies, env bootstrap automation
 
 ---
 
-### 📜 Engineering Philosophy / Mini-Manifesto
+### 📜 Engineering Philosophy
 
-> Abstractions are promises—break them thoughtfully and ceremoniously.  
-> Reconciliation is a superpower: determinism + observability = velocity.  
+> APIs are promises.  
+> Reconciliation is a superpower: determinism + observability = velocity.
+> 
 > Standards should feel like a cheat code, not a chore.  
 > Multi-cloud only “exists” if the contract layer is portable.  
 > Operator observability (events, conditions, traces) is non-negotiable—it's your debugging budget.
@@ -94,14 +85,12 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 ---
 
 ### 📈 Stats & Activity
-<!-- These depend on public activity; feel free to remove if not useful. -->
+
 <p align="center">
-  <!-- GitHub Readme Stats (replace the username below if needed) -->
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=A2Y-D5L&show_icons=true&theme=tokyonight&hide=issues" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2Y-D5L&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
 </p>
 
-<!-- Streak (optional) -->
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=A2Y-D5L&theme=tokyonight&hide_border=true" />
 </p>
@@ -114,44 +103,6 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 - LinkedIn: https://www.linkedin.com/in/andydonnell/
 - Email: hi@andydonnell.com
 - Open to: Conversations about control planes, API ergonomics, operator strategies, persona-based agent frameworks.
-
----
-
-### 🧩 Fun Extras
-
-<details>
-  <summary>Alt Bio (Geeky Flavor)</summary>
-  I write reconciliation loops so developers don’t have to perform arcane provisioning rituals. Go is my comfort language; Crossplane is my spellbook; standards are the runes that keep the platform from collapsing into entropy.
-</details>
-
-<details>
-  <summary>Mantras</summary>
-  <ul>
-    <li>In reconciliation we trust.</li>
-    <li>Composable > monolithic.</li>
-    <li>Standards are UX for the future.</li>
-  </ul>
-</details>
-
----
-
-### 🗂 TODO Board (Personal Roadmap)
-<!-- Replace / prune as desired -->
-- [ ] Open-source `go-stream`
-- [ ] Publish personas framework alpha
-- [ ] Write article: “Compositions as Product Contracts”
-- [ ] Publish Crossplane composition testing starter
-- [ ] Record short demo: Embedded JetStream dev loop
-
----
-
-### 🔄 Maintenance Notes
-<!-- Internal notes you can keep or remove -->
-<!--
-- Update stats images occasionally if dynamic service breaks.
-- Add actual repo links when projects go public.
-- Consider a CONTRIBUTING.md for persona framework.
--->
 
 ---
 
