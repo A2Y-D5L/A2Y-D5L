@@ -69,18 +69,6 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 
 ---
 
-### 🎤 Topics I Enjoy Jamming On
-
-| Category | Topics |
-|----------|--------|
-| Control Planes | Crossplane composition design, multi-cloud abstraction taxonomy |
-| Operators | Drift detection, idempotency discipline, reconciling state machines |
-| API Design | Intent-first resource schemas, upgrade semantics, discoverability |
-| Platform DX | Golden paths, scaffolding, doc archetypes, policy layering |
-| Agents & Automation | Persona partitioning, orchestration clarity, decomposing cognitive domains |
-
----
-
 ### 🤝 Let’s Connect
 
 **Site:** [andydonnell.com](https://www.andydonnell.com)
@@ -90,8 +78,6 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 **Email:** hi@andydonnell.com
 
 ---
-
-### 📈 Stats & Activity
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=A2Y-D5L&show_icons=true&theme=tokyonight&hide=issues" />
