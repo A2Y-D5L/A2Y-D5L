@@ -37,9 +37,6 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 | [`go-stream`](https://github.com/A2Y-D5L/go-stream) | Embedded, batteries-included NATS/JetStream dev experience to slash setup friction. | Early development | Go, NATS, JetStream, Dev UX |
 | [`Personas Framework`](https://github.com/A2Y-D5L/personas-framework) | Persona-based agent coordination runtime for cognitive load reduction via role specialization. | Design + prototyping | Go (planned), Agent orchestration, Extensibility |
 
-<!-- Optional TODO: Add repo links when public -->
-<!-- TODO: Link to repos when you open-source them -->
-
 ---
 
 ### 🧠 Leadership Themes
@@ -84,6 +81,16 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 
 ---
 
+### 🤝 Let’s Connect
+
+**Site:** [andydonnell.com](https://www.andydonnell.com)
+
+**LinkedIn:** [linkedin.com/in/andydonnell](https://www.linkedin.com/in/andydonnell)
+
+**Email:** hi@andydonnell.com
+
+---
+
 ### 📈 Stats & Activity
 
 <p align="center">
@@ -94,12 +101,3 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=A2Y-D5L&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🤝 Let’s Connect
-
-**Site:** https://www.andydonnell.com
-
-**LinkedIn:** https://www.linkedin.com/in/andydonnell/
-**Email:** hi@andydonnell.com
