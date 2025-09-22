@@ -13,10 +13,19 @@
   <a href="https://nats.io/"><img alt="NATS" src="https://img.shields.io/badge/NATS-JetStream-3e8acc?style=flat"></a>
 </p>
 
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=A2Y-D5L&show_icons=true&theme=tokyonight&hide=issues" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2Y-D5L&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=A2Y-D5L&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ### 🧭 Quick Navigation
-[What I Do](#-what-i-do) · [Current Projects](#-current-projects) · [Leadership Themes](#-leadership-themes) · [Tech Stack](#-tech-stack) · [Engineering Philosophy](#-engineering-philosophy--mini-manifesto) · [Talk / Writing Topics](#-topics-i-enjoy-jamming-on) · [Stats & Activity](#-stats--activity) · [Contact](#-lets-connect)  
+[What I Do](#-what-i-do) · [Current Projects](#-current-projects) · [Leadership Themes](#-leadership-themes) · [Tech Stack](#-tech-stack) · [Engineering Philosophy](#-engineering-philosophy--mini-manifesto) · [Contact](#-lets-connect)  
 
 ---
 
@@ -76,14 +85,3 @@ I treat platform layers as product surfaces—versioned, documented, discoverabl
 **LinkedIn:** [linkedin.com/in/andydonnell](https://www.linkedin.com/in/andydonnell)
 
 **Email:** hi@andydonnell.com
-
----
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=A2Y-D5L&show_icons=true&theme=tokyonight&hide=issues" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2Y-D5L&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=A2Y-D5L&theme=tokyonight&hide_border=true" />
-</p>
